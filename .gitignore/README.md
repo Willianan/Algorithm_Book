@@ -15,3 +15,15 @@
 
 
 **Chapter5 String**
+
+
+**Chapter6 Basic Numerical Operation**
+
+
+**Chapter7 Arrangement Combination and Probability**
+
+
+**Chapter8 Sort**
+
+
+**Chapter9 Big Data**
